@@ -1,0 +1,7 @@
+.background-example {
+    background-color: lightblue;
+    background-image: url('example.jpg');
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    border-radius: 10px;
+}

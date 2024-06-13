@@ -1,0 +1,20 @@
+
+/* Element Selector */
+p {
+  color: blue;
+}
+
+/* ID Selector */
+#unique-id {
+  font-size: 18px;
+}
+
+/* Class Selector */
+.class-name {
+  background-color: lightgray;
+}
+
+/* Grouping Selector */
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+}

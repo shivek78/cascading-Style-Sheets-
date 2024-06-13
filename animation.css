@@ -1,0 +1,16 @@
+.transition-example {
+  transition: width 2s, height 2s, transform 2s;
+}
+
+@keyframes slide {
+  from {
+      transform: translateX(0);
+  }
+  to {
+      transform: translateX(100px);
+  }
+}
+
+.animation-example {
+  animation: slide 2s infinite alternate;
+}
